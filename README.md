@@ -1,1 +1,1 @@
-# PTC3567_G02
+# PTC3567 - Ciência de Dados - Grupo 02
